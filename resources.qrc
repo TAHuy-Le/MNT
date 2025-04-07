@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/MNT" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
